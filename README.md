@@ -15,7 +15,7 @@ A full-stack platform that provides AI-powered financial decision analysis, deli
 - **Frontend**: React, Tailwind CSS, Vite
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (with in-memory fallback)
-- **AI Integration**: Gemini 2.5 Flash Lite API
+- **AI Integration**: Gemini API
 - **Authentication**: JWT, bcryptjs
 - **Styling**: Tailwind CSS with custom animations
 
