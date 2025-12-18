@@ -30,5 +30,5 @@ A full-stack platform that provides AI-powered financial decision analysis, deli
 
 
 
-## Contact
-For questions or feedback, please open an issue in the repository.
+## DEMO
+Demo Link
