@@ -3,7 +3,7 @@
 A full-stack platform that provides AI-powered financial decision analysis, delivering personalized DO/DON'T verdicts with detailed reasoning in under 15 seconds, eliminating 80% of manual financial research time.
 
 ## Features
-- **AI-Powered Financial Analysis**: Analyzes financial dilemmas using Gemini 2.5 Flash Lite
+- **AI-Powered Financial Analysis**: Analyzes financial dilemmas using Gemini API
 - **Clear DO/DON'T Verdicts**: Provides decisive recommendations with specific reasoning
 - **Under 15-Second Responses**: Delivers detailed financial advice in under 15 seconds
 - **Secure User Authentication**: JWT-based authentication with user profiles and avatar generation
