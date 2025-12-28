@@ -28,8 +28,3 @@ A full-stack platform that provides AI-powered financial decision analysis, deli
 - **Error Handling**: Comprehensive error management and user feedback
 - **Performance Optimization**: Sub-15-second AI responses
 
-
-
-## Demo
-
-- [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7404368606366760960/)
